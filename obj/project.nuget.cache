@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "05gI3dkgXlr0kPdlEj2ATzpKzYhygqAfvMOSeFwjTWDMhGSuARqbGEL2QJtCs33RqZH506yNLLtPWJcLkI6btw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onemc\\OneDrive - Waukesha County Technical College\\Desktop\\School\\.NET Database\\TicketSytemSearch\\TicketSytemSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onemc\\.nuget\\packages\\nlog\\5.1.1\\nlog.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

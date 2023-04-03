@@ -1,0 +1,17 @@
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\bin\Debug\net6.0\TicketSytemSearch.exe
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\bin\Debug\net6.0\TicketSytemSearch.deps.json
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\bin\Debug\net6.0\TicketSytemSearch.runtimeconfig.json
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\bin\Debug\net6.0\TicketSytemSearch.dll
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\bin\Debug\net6.0\TicketSytemSearch.pdb
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\bin\Debug\net6.0\NLog.dll
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\obj\Debug\net6.0\TicketSytemSearch.csproj.AssemblyReference.cache
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\obj\Debug\net6.0\TicketSytemSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\obj\Debug\net6.0\TicketSytemSearch.AssemblyInfoInputs.cache
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\obj\Debug\net6.0\TicketSytemSearch.AssemblyInfo.cs
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\obj\Debug\net6.0\TicketSytemSearch.csproj.CoreCompileInputs.cache
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\obj\Debug\net6.0\TicketSytemSearch.csproj.CopyComplete
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\obj\Debug\net6.0\TicketSytemSearch.dll
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\obj\Debug\net6.0\refint\TicketSytemSearch.dll
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\obj\Debug\net6.0\TicketSytemSearch.pdb
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\obj\Debug\net6.0\TicketSytemSearch.genruntimeconfig.cache
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Desktop\School\.NET Database\TicketSytemSearch\obj\Debug\net6.0\ref\TicketSytemSearch.dll
