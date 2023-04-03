@@ -193,12 +193,16 @@ do
 
                 var statusList = ticketList.Where(t => t.status.Contains(statusAnswer, StringComparison.OrdinalIgnoreCase));
 
+                Console.ForegroundColor = ConsoleColor.Green;
+
                 Console.WriteLine($"There are {statusList.Count()} tickets with the status {statusAnswer}");
 
                 foreach(Ticket t in ticketList)
                 {
                     Console.WriteLine( $"Id: {t.ticketId}\nSummary: {t.summary}\nStatus: {t.status}\nPriority: {t.priority}\nSubmitted by: {t.owner}\nAssigned to: {t.assign}\nWatched by: {t.watch}\n");
                 }
+
+                Console.ForegroundColor = ConsoleColor.White;
             }
 
             else if (answer == "2")
@@ -209,6 +213,8 @@ do
 
                 var statusList = ticketList.Where(t => t.priority.Contains(statusAnswer, StringComparison.OrdinalIgnoreCase));
 
+                Console.ForegroundColor = ConsoleColor.Green;
+
                 Console.WriteLine($"There are {statusList.Count()} tickets with the priority {statusAnswer}");
 
                 foreach(Ticket t in statusList)
@@ -216,13 +222,17 @@ do
                     Console.WriteLine( $"Id: {t.ticketId}\nSummary: {t.summary}\nStatus: {t.status}\nPriority: {t.priority}\nSubmitted by: {t.owner}\nAssigned to: {t.assign}\nWatched by: {t.watch}\n");
                 }
 
+                Console.ForegroundColor = ConsoleColor.White;
+
             }
 
             else if (answer == "3")
             {
 
-                Console.WriteLine("What status are you searching for?:");
+                Console.WriteLine("What is the name of the person who submitted the ticket?:");
                 var statusAnswer = Console.ReadLine();
+
+                Console.ForegroundColor = ConsoleColor.Green;
 
                 var statusList = ticketList.Where(t => t.owner.Contains(statusAnswer, StringComparison.OrdinalIgnoreCase));
 
@@ -232,6 +242,8 @@ do
                 {
                     Console.WriteLine( $"Id: {t.ticketId}\nSummary: {t.summary}\nStatus: {t.status}\nPriority: {t.priority}\nSubmitted by: {t.owner}\nAssigned to: {t.assign}\nWatched by: {t.watch}\n");
                 }
+
+                Console.ForegroundColor = ConsoleColor.White;
 
             }
 
